@@ -8,7 +8,7 @@
   "type": "module",
   "devDependencies": {
     "cypress": "^13.7.0",
-    "solid-start-netlify": "^0.1.0",
+    "solid-start-netlify": "^0.3.11",
     "typescript": "^4.9.5",
     "vite": "^3.2.10"
   },
