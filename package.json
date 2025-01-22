@@ -10,13 +10,13 @@
     "cypress": "^13.13.0",
     "solid-start-netlify": "^0.1.0",
     "typescript": "^4.9.5",
-    "vite": "^3.2.10"
+    "vite": "^6.0.11"
   },
   "dependencies": {
     "@solidjs/meta": "^0.29.4",
     "@solidjs/router": "^0.14.1",
     "solid-js": "^1.8.18",
-    "solid-start": "^0.1.0",
+    "solid-start": "^0.3.11",
     "undici": "^5.28.4"
   },
   "engines": {
