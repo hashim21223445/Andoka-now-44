@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@solidjs/meta": "^0.29.4",
-    "@solidjs/router": "^0.14.1",
+    "@solidjs/router": "^0.15.4",
     "solid-js": "^1.9.4",
     "solid-start": "^0.3.11",
     "undici": "^5.29.0"
