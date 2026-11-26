@@ -7,17 +7,17 @@
   },
   "type": "module",
   "devDependencies": {
-    "cypress": "^15.7.0",
+    "cypress": "^15.21.1",
     "solid-start-netlify": "^0.1.0",
     "typescript": "^4.9.5",
-    "vite": "^7.2.6"
+    "vite": "^7.3.5"
   },
   "dependencies": {
     "@solidjs/meta": "^0.29.4",
     "@solidjs/router": "^0.14.1",
     "solid-js": "^1.9.11",
     "solid-start": "^0.3.11",
-    "undici": "^6.24.0"
+    "undici": "^6.28.0"
   },
   "engines": {
     "node": ">=16"
